@@ -6,9 +6,9 @@
 
 **Asignatura:** Programación y Plataformas Web  
 **Unidad:** 1.2 – Estándares Web  
-**Estudiante:** Pepe el Pollo  
-**Repositorio:** https://github.com/PepeElPollo/icc-ppw-u1-miPrimeraPagina  
-**Página desplegada (GitHub Pages):** https://pepeelpollo.github.io/icc-ppw-u1-miPrimeraPagina/
+**Estudiante:** Alexander Chuquipoma  
+**Repositorio:** https://github.com/AlexChuquipoma/icc-ppw-u1-miPrimeraPagina  
+**Página desplegada (GitHub Pages):** https://alexchuquipoma.github.io/icc-ppw-u1-miPrimeraPagina/
 
 ---
 
