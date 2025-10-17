@@ -29,7 +29,7 @@
 
 | Etiqueta | Descripción | Implementación |
 |-----------|--------------|----------------|
-| `<img>` | Inserta una imagen representativa del tema | Logo del lenguaje HTML5 |
+| `<img>` | Inserta una imagen representativa del tema | Imagen del computador |
 | `<progress>` | Barra de progreso de una tarea | Representa 70% completado |
 
 **Código usado:**
